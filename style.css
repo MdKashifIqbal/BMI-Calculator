@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    word-spacing: 5px;  
+    background-color: rgb(214, 214, 108);
+}
+.container{
+    font-family: sans-serif;
+    text-align: center;
+}
+.container form{
+    /* border: 5px dotted white; */
+    padding: 20px 0px;
+}
+.container button{
+    border: none;
+    background-color: rgb(136, 69, 199);
+    color: white;
+    padding:5px 9px;
+    font-size: 18px;
+    border-radius: 6px;
+    margin: 15px 0;
+}
+.container button:hover{
+   font-size: 19px;
+}
+#result{
+    font-size: 25px;
+    color: grey;
+}
+.weight-guide{
+    margin-top: 25px;
+    display: inline-block;
+    text-align: left;
+}
+
